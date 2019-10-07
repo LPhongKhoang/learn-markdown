@@ -1,0 +1,14 @@
+.content {
+  margin: auto;
+  width: 70%;
+  min-width: 600px;
+}
+.content pre {
+  background-color: #26282c;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  overflow-x: auto;
+  font-size: 14px;
+  max-width: 100%;
+}
